@@ -1,0 +1,40 @@
+.exp h3
+{
+    width:60%;
+    color:pink;
+    text-align: justify;
+}
+.three
+{
+    background-color:blueviolet;
+    height:618px;
+}
+.three p a h3 button{
+    border:2px solid;
+    border-radius:20px;
+    background-color:yellow;
+    font-weight: 500;
+ }
+ .three p a h3 :hover
+ {
+    background-color: blueviolet;
+ }
+ .jan p a h2 button{
+    border:2px solid;
+    border-radius:20px;
+    background-color:yellow;
+    font-weight: 500;
+ }
+ .breadcrumb
+{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    color:pink;
+    margin-top:0%;
+}
+.breadcrumb li a
+{
+    color:pink;
+    margin-left:-1%;
+} 

@@ -1,0 +1,17 @@
+.csc 
+{
+    width:90%;
+    color:pink;
+    height:750px;
+}
+.four
+{
+    background-color:blueviolet;
+}
+.csc h2{
+    width:78%;
+    margin-top:3%;
+    color:red;
+    background-color:yellow;
+    text-shadow: 2px 2px 3px blue;
+}

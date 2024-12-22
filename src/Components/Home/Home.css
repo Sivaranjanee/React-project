@@ -1,0 +1,102 @@
+.one
+{
+    /* width: 100%; */
+    background-color:blueviolet;
+    /* height: 680px; */
+    display:flex;
+}
+.breadcrumb
+{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    color:pink;
+}
+.jan
+{
+    /*width:80%;
+    /*margin-left:5%;*/
+}
+.jan h1
+{
+    color:pink;
+    margin-top:3%;
+    margin-left:5%;
+}
+.jan p a
+{
+    margin-left:80%;
+    text-decoration: none;
+    margin-bottom:10%;
+}
+.jan p a h3
+{
+    color:pink;
+    margin-top:-50%;
+}
+.jan p a h4
+{
+    color:pink;
+    margin-left:40%;
+    margin-top:45%;
+}
+.jan i
+{
+   /* width: 70%;*/
+    margin-left:46%;
+    margin-top:2%;
+    color:pink;
+}
+.jan p a h2
+{
+    margin-left:38%;
+    margin-top:-28%;
+    color:pink;
+}
+/* img
+{
+    width: 220px;
+    height: 300px;
+    margin-left:10%;
+} */
+ .jan p a h3 button{
+    border:2px solid;
+    border-radius:20px;
+    background-color:pink;
+    font-weight: 500;
+ }
+ .jan p a h3 :hover
+ {
+    background-color: blueviolet;
+ }
+ .jan p a h2 button{
+    border:2px solid;
+    border-radius:20px;
+    background-color:pink;
+    font-weight: 500;
+ }
+ .jan p a h2 :hover
+ {
+    background-color: blueviolet;
+ }
+ .jan p a h4 button{
+    margin-top:-28%;
+    border:2px solid;
+    border-radius:20px;
+    background-color:yellow;
+    font-weight: 500;
+ }
+ .jan p a h4 :hover
+ {
+    background-color: blueviolet;
+ }
+.breadcrumb li a
+{
+    color:pink;
+    margin-left:-85%;
+    text-align: center;
+} 
+.jan h1 p
+{
+    margin-left:25%;
+}
